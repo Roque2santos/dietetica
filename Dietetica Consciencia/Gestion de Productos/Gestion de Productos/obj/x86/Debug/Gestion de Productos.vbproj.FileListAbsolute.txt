@@ -1,0 +1,12 @@
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\bin\Debug\Gestion de Productos.exe
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\bin\Debug\Gestion de Productos.pdb
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\bin\Debug\Gestion de Productos.xml
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion_de_Productos.Form1.resources
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion_de_Productos.Resources.resources
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.vbproj.GenerateResource.Cache
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.exe
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.xml
+C:\Proyecto programacion con bd\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.pdb
+C:\Users\danie\dietetica\Dietetica Consciencia\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.exe
+C:\Users\danie\dietetica\Dietetica Consciencia\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.xml
+C:\Users\danie\dietetica\Dietetica Consciencia\Gestion de Productos\Gestion de Productos\obj\x86\Debug\Gestion de Productos.pdb
